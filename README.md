@@ -11,7 +11,7 @@
 * [FFmpeg音视频核心技术精讲与实战](https://www.bilibili.com/video/BV1pC4y1W7f3/?spm_id_from=333.788.videocard.0)
 * [android开发喜马拉雅FM电台项目实战课程，安卓开发毕业设计教程](https://www.bilibili.com/video/BV1SE411R714/?spm_id_from=333.788.videocard.9)
 * [Linux项目实战：自制视频监控系统！【各部门注意该记笔记了！】流媒体+Nginx服务器教你搭建](https://www.bilibili.com/video/BV13Z4y147CY?from=search&seid=9239260046464783180)
-* [教程]建一个自己的直播服务器!搭建nginx+rtmp直播服务器](https://www.bilibili.com/video/BV1SJ411k7v2/?spm_id_from=333.788.videocard.10)
+* [教程 建一个自己的直播服务器!搭建nginx+rtmp直播服务器](https://www.bilibili.com/video/BV1SJ411k7v2/?spm_id_from=333.788.videocard.10)
 
 
 
