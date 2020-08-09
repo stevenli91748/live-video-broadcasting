@@ -14,5 +14,5 @@
 * [教程 建一个自己的直播服务器!搭建nginx+rtmp直播服务器](https://www.bilibili.com/video/BV1SJ411k7v2/?spm_id_from=333.788.videocard.10)
 
 
-
+* [全栈开发——动手打造属于自己的直播间（Vue+SpringBoot+Nginx）](https://my.oschina.net/u/3325049/blog/997720)
 * [如何搭建双机直播工作平台](https://www.bilibili.com/video/BV1Mb41157DN/?spm_id_from=333.788.videocard.11)
