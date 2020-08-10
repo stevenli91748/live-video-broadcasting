@@ -17,3 +17,5 @@
 # 有用的参考
 * [全栈开发——动手打造属于自己的直播间（Vue+SpringBoot+Nginx）](https://my.oschina.net/u/3325049/blog/997720)
 * [如何搭建双机直播工作平台](https://www.bilibili.com/video/BV1Mb41157DN/?spm_id_from=333.788.videocard.11)
+* [音视频开发资源汇总](https://www.jianshu.com/p/efa9d065eb2b)
+* [即时通讯网](http://www.52im.net/)
