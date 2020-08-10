@@ -3,6 +3,12 @@
 ---|
 
 
+# 直播SDK
+
+[Agora 平台](https://docs.agora.io/cn/Agora%20Platform/agora_platform?platform=All%20Platforms) |
+---|
+
+
 
 
 # 视频
