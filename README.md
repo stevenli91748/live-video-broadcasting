@@ -29,3 +29,4 @@
 * [直播系统的基本功能模块](http://www.dvbcn.com/p/79273.html)
 * [如何搭建一个完整的视频直播系统](https://www.zhihu.com/question/42162310)
 * [手机app里的直播间实现原理是什么?](https://www.zhihu.com/question/27267425/answer/202075164)
+* [编风网---专注于音视频以及WebRTC行业动向](https://www.zhihu.com/people/WebRTC)
