@@ -27,3 +27,4 @@
 * [音视频开发资源汇总](https://www.jianshu.com/p/efa9d065eb2b)
 * [即时通讯网](http://www.52im.net/)
 * [直播系统的基本功能模块](http://www.dvbcn.com/p/79273.html)
+* [如何搭建一个完整的视频直播系统](https://www.zhihu.com/question/42162310)
