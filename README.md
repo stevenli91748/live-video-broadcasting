@@ -11,6 +11,7 @@
 
 
 
+
 # 视频
 * [开发视频直播项目到底有多难？怎末做才能事半功倍？](https://www.youtube.com/watch?v=gudww0h8kbw)
 * [FFmpeg/WebRTC/RTMP音视频流媒体开发/万人在线会议系统开发实践](https://www.bilibili.com/video/BV1wZ4y1u7gq?from=search&seid=9409290589494288789)
@@ -25,3 +26,4 @@
 * [如何搭建双机直播工作平台](https://www.bilibili.com/video/BV1Mb41157DN/?spm_id_from=333.788.videocard.11)
 * [音视频开发资源汇总](https://www.jianshu.com/p/efa9d065eb2b)
 * [即时通讯网](http://www.52im.net/)
+* [直播系统的基本功能模块](http://www.dvbcn.com/p/79273.html)
