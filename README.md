@@ -33,3 +33,4 @@
 * [如何搭建一个完整的视频直播系统](https://www.zhihu.com/question/42162310)
 * [手机app里的直播间实现原理是什么?](https://www.zhihu.com/question/27267425/answer/202075164)
 * [编风网---专注于音视频以及WebRTC行业动向](https://www.zhihu.com/people/WebRTC)
+* [直播APP开发技术实现难度在哪？都是原生开发吗？](https://www.zhihu.com/question/62877550/answer/376388439?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
