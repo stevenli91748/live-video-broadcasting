@@ -16,6 +16,7 @@
 
 
 # 视频
+* [LEARN OPENCV in 3 HOURS with Python | Including 3x Example Projects (2020)](https://www.youtube.com/watch?v=WQeoO7MI0Bs)
 *  [小码哥iOS-Swift开发项目-斗鱼直播APP-网易云课堂 手把手教你模仿一个直播项目](https://study.163.com/course/courseMain.htm?courseId=1003309014&_trace_c_p_k2_=1fa2875b189e406d9c18c27152aa6c7c#/courseDetail?tab=1)
 * [开发视频直播项目到底有多难？怎末做才能事半功倍？](https://www.youtube.com/watch?v=gudww0h8kbw)
 * [FFmpeg/WebRTC/RTMP音视频流媒体开发/万人在线会议系统开发实践](https://www.bilibili.com/video/BV1wZ4y1u7gq?from=search&seid=9409290589494288789)
