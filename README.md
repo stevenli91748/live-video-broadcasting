@@ -39,3 +39,6 @@
 * [编风网---专注于音视频以及WebRTC行业动向](https://www.zhihu.com/people/WebRTC)
 * [直播APP开发技术实现难度在哪？都是原生开发吗？](https://www.zhihu.com/question/62877550/answer/376388439?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
 * [直播系统搭建所用到的技术原理](https://zhuanlan.zhihu.com/p/87841597?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
+
+# OpenCV
+* [Android（OpenCV）开发](https://www.kancloud.cn/yanzi1225627/android-opencv)
