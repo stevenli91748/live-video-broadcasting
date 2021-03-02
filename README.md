@@ -12,6 +12,13 @@
 [Agora 平台 可同时提供PC , Android, IOS 端的SDK](https://docs.agora.io/cn/Agora%20Platform/agora_platform?platform=All%20Platforms) |
 ---|
 
+# OpenCV
+
+[Android（OpenCV）开发](https://www.kancloud.cn/yanzi1225627/android-opencv)|[学习之路：OpenCV2](https://www.kancloud.cn/digest/herbertopencv#/catalog)|[OpenCV-Python中文教程](https://www.kancloud.cn/aollo/aolloopencv)|
+---|---|---|
+
+[opencv计算机视觉人工智能](https://www.kancloud.cn/lovenr/pclook)|
+---|
 
 
 
@@ -40,5 +47,3 @@
 * [直播APP开发技术实现难度在哪？都是原生开发吗？](https://www.zhihu.com/question/62877550/answer/376388439?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
 * [直播系统搭建所用到的技术原理](https://zhuanlan.zhihu.com/p/87841597?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
 
-# OpenCV
-* [Android（OpenCV）开发](https://www.kancloud.cn/yanzi1225627/android-opencv)
