@@ -5,6 +5,8 @@
 [WebRTC 学习资源，以及相关 Demo](https://rtcdeveloper.com/t/topic/435)|[How To Create A Video Chat App With WebRTC](https://www.youtube.com/watch?v=DvlyzDZDEq4)|
 ---|---|
 
+[抖音小程序项目开发流程记录](https://www.kancloud.cn/zs4336/d9q2hezr30i/1687270)|
+---|
 
 
 # 直播SDK
