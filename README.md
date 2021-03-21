@@ -8,6 +8,9 @@
 [抖音小程序项目开发流程记录](https://www.kancloud.cn/zs4336/d9q2hezr30i/1687270)|
 ---|
 
+[字节跳动技术大神亲授内部音视频开发笔记](https://blog.csdn.net/bugyinyin/article/details/115008136?utm_medium=distribute.pc_category.none-task-blog-hot-4.nonecase&dist_request_id=1328270.296.16163681606507485&depth_1-utm_source=distribute.pc_category.none-task-blog-hot-4.nonecase)|
+---|
+
 
 # 直播SDK
 
