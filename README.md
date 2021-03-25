@@ -5,8 +5,8 @@
 [WebRTC 学习资源，以及相关 Demo](https://rtcdeveloper.com/t/topic/435)|[How To Create A Video Chat App With WebRTC](https://www.youtube.com/watch?v=DvlyzDZDEq4)|
 ---|---|
 
-[抖音小程序项目开发流程记录](https://www.kancloud.cn/zs4336/d9q2hezr30i/1687270)|[『菜鸟直播』仿映客直播APP开发实战项目](https://www.cniao5.com/course/10121)|
----|---|
+[抖音小程序项目开发流程记录](https://www.kancloud.cn/zs4336/d9q2hezr30i/1687270)|[『菜鸟直播』仿映客直播APP开发实战项目](https://www.cniao5.com/course/10121)|[AI视觉应用工程师系列直播课](https://edu.csdn.net/learn/29546?spm=1002.2001.3001.4157)|
+---|---|---|
 
 [字节跳动技术大神亲授内部音视频开发笔记](https://blog.csdn.net/bugyinyin/article/details/115008136?utm_medium=distribute.pc_category.none-task-blog-hot-4.nonecase&dist_request_id=1328270.296.16163681606507485&depth_1-utm_source=distribute.pc_category.none-task-blog-hot-4.nonecase)|
 ---|
