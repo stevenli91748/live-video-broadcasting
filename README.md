@@ -14,6 +14,12 @@
 ---|
 
 
+#  项目实
+
+* [3个基于 SpringBoot 的图片识别处理系统送给你！](https://developer.51cto.com/art/202008/623120.htm)
+
+
+
 # 直播SDK
 
 [Agora 平台 可同时提供PC , Android, IOS 端的SDK](https://docs.agora.io/cn/Agora%20Platform/agora_platform?platform=All%20Platforms) |
