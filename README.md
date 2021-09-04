@@ -1,5 +1,5 @@
-[音视频学习路线图](https://zhuanlan.zhihu.com/p/150460851)|[如何快速学习音视频开发?](https://zhuanlan.zhihu.com/p/349037814)|
----|---|
+[音视频学习路线图](https://zhuanlan.zhihu.com/p/150460851)|[如何快速学习音视频开发?](https://zhuanlan.zhihu.com/p/349037814)|[百度AI能力开放平台---语音，文字，图像，人体特征，视频，AR VR接口](https://ai.baidu.com/)|
+---|---|---|
 
 [推荐几个堪称教科书级别的 Android 音视频入门项目](https://zhuanlan.zhihu.com/p/138575315)|[Webrtc官网](https://webrtc.org.cn/)|[WebRTC教程](http://www.vue5.com/webrtc/webrtc.html)|
 ---|--|---|
