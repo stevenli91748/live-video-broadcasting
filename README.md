@@ -13,8 +13,8 @@
 [字节跳动技术大神亲授内部音视频开发笔记](https://blog.csdn.net/bugyinyin/article/details/115008136?utm_medium=distribute.pc_category.none-task-blog-hot-4.nonecase&dist_request_id=1328270.296.16163681606507485&depth_1-utm_source=distribute.pc_category.none-task-blog-hot-4.nonecase)|
 ---|
 
-[声网Agora](https://www.agora.io/cn/price)|
----|
+[声网Agora](https://www.agora.io/cn/price)|[FFmpeg 视频处理入门教程](https://www.ruanyifeng.com/blog/2020/01/ffmpeg.html)|
+---|---|
 
 
 #  项目实
