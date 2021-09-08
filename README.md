@@ -1,3 +1,6 @@
+[极客教程 OpenCV篇](https://geek-docs.com/opencv)|
+---|
+
 [音视频学习路线图](https://zhuanlan.zhihu.com/p/150460851)|[如何快速学习音视频开发?](https://zhuanlan.zhihu.com/p/349037814)|[百度AI能力开放平台---语音，文字，图像，人体特征，视频，AR VR接口](https://ai.baidu.com/)|
 ---|---|---|
 
