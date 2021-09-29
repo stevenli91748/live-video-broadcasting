@@ -20,10 +20,10 @@
 ---|---|
 
 
-#  项目实
-
+#  项目实战
+* [本项目实现了作为一个直播App的基本功能，比如本地视频流采集、播放、美颜、礼物、点赞出心等](https://github.com/QiuYeHong90/520Linkee)
 * [3个基于 SpringBoot 的图片识别处理系统送给你！](https://developer.51cto.com/art/202008/623120.htm)
-
+* [Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support](https://github.com/bilibili/ijkplayer)
 
 
 # 直播SDK
