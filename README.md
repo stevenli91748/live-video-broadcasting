@@ -57,6 +57,10 @@
 * [教程 建一个自己的直播服务器!搭建nginx+rtmp直播服务器](https://www.bilibili.com/video/BV1SJ411k7v2/?spm_id_from=333.788.videocard.10)
 
 # 有用的参考
+* [iOS 直播搭建](https://www.jianshu.com/p/d46829ee7aa8)
+* [基于GPUImage的美颜BeautifyFace详细注释](https://www.jianshu.com/p/ec0f1b1e935d)
+* [HLS-iOS推流至nginx服务器，实现直播（4）](https://www.jianshu.com/p/af80f892b2d6)
+* [视频直播的技术原理和实现思路方案整理[转]](https://www.jianshu.com/p/8a8e9d120985)
 * [实时互动场景下，音频的技术变迁与机遇](https://www.infoq.cn/article/TSlY6pmXpvfPJjFXi5U6)
 * [WebRTC开发者社区---为开发者提供最新最全的WebRTC资料](https://webrtc.ren/catalog?id=1)
 * [全栈开发——动手打造属于自己的直播间（Vue+SpringBoot+Nginx）](https://my.oschina.net/u/3325049/blog/997720)
