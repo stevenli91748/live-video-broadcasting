@@ -65,6 +65,7 @@
 * [教程 建一个自己的直播服务器!搭建nginx+rtmp直播服务器](https://www.bilibili.com/video/BV1SJ411k7v2/?spm_id_from=333.788.videocard.10)
 
 # 有用的参考
+* [Twilio----Twilio 通过融合云计算、web 服务以及通讯技术来提供一种全新形式的通信服务。通过在云端搭建语音基础设施 web 服务，Twilio 让开发者可以将语音、短信、 IP 或 VoIP电话以及视频呼叫服务集成到 web、移动及桌面应用上。举例说明一下 Twilio 的作用。比方说你开发了一款 APP，这款 APP 需要每天会向用户发送一条与自己宠物有关的短信（短信仍然是最有效最普及的渠道），但是考虑到这些用户从属于不同的运营商，所以要想实现这一点你需要针对不同运营商的短信网关做接口，因此这件事情仍然非常麻烦。而如果使用 Twilio 的服务，几行代码就能轻松搞定](https://www.twilio.com/go/twilio-brand-sales-1?utm_source=google&utm_medium=cpc&utm_term=twilio&utm_campaign=G_S_NAMER_Brand_Twilio&gclid=Cj0KCQiAqbyNBhC2ARIsALDwAsBJc_f_L9KWIU_Ruh29QuJ2lP9bXucpcpDnlfavMm1pSUtjhkW03O8aAmXIEALw_wcB)
 * [iOS 直播搭建](https://www.jianshu.com/p/d46829ee7aa8)
 * [基于GPUImage的美颜BeautifyFace详细注释](https://www.jianshu.com/p/ec0f1b1e935d)
 * [HLS-iOS推流至nginx服务器，实现直播（4）](https://www.jianshu.com/p/af80f892b2d6)
