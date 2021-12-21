@@ -44,6 +44,9 @@
 [Android（OpenCV）开发](https://www.kancloud.cn/yanzi1225627/android-opencv)|[学习之路：OpenCV2](https://www.kancloud.cn/digest/herbertopencv#/catalog)|[OpenCV-Python中文教程](https://www.kancloud.cn/aollo/aolloopencv)|
 ---|---|---|
 
+[图像超分辨率技术](https://www.kancloud.cn/digest/imagesuperresolution)|
+---|
+
 
 [opencv计算机视觉人工智能](https://www.kancloud.cn/lovenr/pclook)|[opencv](https://www.kancloud.cn/angelzlz/opencv#/catalog)|[opencv-python opencv算法](https://www.kancloud.cn/xs-lion/opencv-1#/catalog)|[opencv-python-VScode---无人机飞行](https://www.kancloud.cn/nice-love/gan-you)|
 ---|---|---|---|
