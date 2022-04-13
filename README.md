@@ -5,7 +5,7 @@
 * [WebRTC音视频开发： React + Flutter + Go 实战](https://weread.qq.com/web/reader/c633222072038782c637ccc)
 * 
 # 博客
-[极客教程 OpenCV篇](https://geek-docs.com/opencv)|[3D视觉工坊](https://space.bilibili.com/483478083/)|[计算机视觉工坊](https://cloud.tencent.com/developer/column/90096)|
+[极客教程 OpenCV篇](https://geek-docs.com/opencv)|[3D视觉工坊](https://posts.careerengine.us/author/60f39b8b531cbf265368ad64/posts)|[计算机视觉工坊](https://cloud.tencent.com/developer/column/90096)|
 ---|---|---|
 
 [音视频学习路线图](https://zhuanlan.zhihu.com/p/150460851)|[如何快速学习音视频开发?](https://zhuanlan.zhihu.com/p/349037814)|[百度AI能力开放平台---语音，文字，图像，人体特征，视频，AR VR接口](https://ai.baidu.com/)|
